@@ -1,0 +1,16 @@
+gender,parental_education,math_score,reading_score,writing_score
+female,bachelor,72,75,78
+male,high_school,65,60,58
+female,master,88,92,90
+male,associate,75,70,68
+female,high_school,60,68,72
+male,bachelor,90,85,82
+female,associate,78,80,84
+male,master,82,78,75
+female,bachelor,95,94,96
+male,high_school,55,58,52
+female,master,85,89,91
+male,associate,70,72,74
+female,high_school,68,73,70
+male,bachelor,92,88,86
+female,associate,80,85,88
