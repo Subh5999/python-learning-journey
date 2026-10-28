@@ -1,0 +1,4 @@
+Name: Subh
+College: IIT Patna
+CGPA: 9.0
+Course: Computer Science
